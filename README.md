@@ -12,8 +12,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/FaizanSurani/ec-assignment.git
-   cd your-repo-name
+   https://github.com/FaizanSurani/EC-Assignment.git
+   cd EC-Assignment
 2 **Install dependencies:**
 
     npm install
